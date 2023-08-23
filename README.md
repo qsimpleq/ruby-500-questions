@@ -2,6 +2,7 @@
 
 Полезные ссылки:
  * [Собеседование Ruby on Rails разработчика](https://github.com/aristofun/webdevdao/tree/master/interview)
+ * [TDDx2, BDD, DDD, FDD, MDD и PDD, или все, что вы хотите узнать о Driven Development](https://medium.com/daily-coding/p-fb4441d5179c)
 
 <details>
 <summary>TOC</summary>
